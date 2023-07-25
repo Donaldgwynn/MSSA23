@@ -1,6 +1,0 @@
-The first line
-The Second Line
-The Third line
-The Fourth Line
-Github change 5th
-This is a change in VSC
